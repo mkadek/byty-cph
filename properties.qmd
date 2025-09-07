@@ -1,0 +1,34 @@
+---
+title: "Zoznam apartmanov"
+---
+
+## Areal A, Vanløse
+
+![](images/A01.jpg){.property-image}
+
+**Adresa:** [Peter Bangs Vej 228](https://home.dk/salg/lejligheder/peter-bangs-vej-228-3tv-2500-valby/sag-1490002029/?utm_campaign=boligsiden&utm_source=boligsiden.dk&utm_medium=referral){target="_blank"}  
+**Cena:** 4.1 M DKK  
+**Naklady:** 2563 DKK / mesiac  
+**Area:** 68 m²  
+**Rok:** 1948  
+**Cena/m²:** 60.3 kDKK
+
+**Poznamky:**  
+- velmi blizko jazera, aj dopravneho uzla Flintholm
+
+## Areal B, Valby
+
+![](images/B01.jpg){.property-image}
+
+**Adresa:** [Ingrid Marievej 66](https://www.estate.dk/ejerlejlighed/2500/ingridmarievej/n105468/n1054680000254?utm_campaign=boligsiden&utm_source=boligsiden.dk&utm_medium=referral){target="_blank"}  
+**Cena:** 4.6 M DKK  
+**Naklady:** 2581 DKK / mesiac  
+**Area:** 68 m²  
+**Rok:** 2021  
+**Cena/m²:** 67.6 kDKK
+
+**Poznamky:**  
+- 17. poschodie  
+- velmi blizko juda
+
+---

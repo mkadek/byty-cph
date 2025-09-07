@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: _site
+
+title: "Prehlad zaujimavych bytov"
+#description: "V relevantnych lokaciach v Kodani"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-location: left
+    navigation:
+      style: sidebar
+    page-layout: full
+    code-fold: true
+    code-tools: true
+    fig-width: 12
+    fig-height: 8
+    fig-dpi: 300
+
+execute:
+  echo: true
+  eval: true
+  warning: false
+  error: false
+
+jupyter: python3
+
+website:
+  title: "Kodan byty"
+  navbar:
+    left:
+      - href: overview.qmd
+        text: Mapa s legendou
+      - href: properties.qmd
+        text: Zoznam apartmanov
